@@ -10,3 +10,4 @@
 5.gif:github图标动图(慢-2.1s变一张)<br>
 6.gif:github图标动图(慢-2.2s变一张)<br>
 7.gif:github图标动图(慢-2.25s变一张)<br>
+8.gif:github图标动图(慢-0.2 0 2 0)<br>
