@@ -4,4 +4,5 @@
 * 动图<br>
 
 1.gif:血轮眼动图<br>
-2.gif:github图标动图<br>
+2.gif:github图标动图(快)<br>
+2.gif:github图标动图(慢-2.5s变一张)<br>
