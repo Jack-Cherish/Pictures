@@ -12,4 +12,5 @@
 7.gif:github图标动图(慢-2.25s变一张)<br>
 8.gif:github图标动图(慢-0.2 0 2 0)<br>
 9.gif:python-spider的README.md插入图片-文件下载小助手动态示意图<br>
+10.gif:python-spider的README.md插入图片-财务数据下载助手动态示意图<br>
 canvas-nest.min.js:canvas-nest效果背景JS文件<br>
