@@ -16,6 +16,7 @@
 11.qqgroup.png:qq一键加群<br>
 12.gzh.jpg:公众号照片<br>
 13.spider_2_1.gif:GEETEST验证码破解效果图<br>
-14.10.png:百万英雄答题辅助系统<br>
+14.11.gif:百万英雄答题辅助系统<br>
+15.13.gif:网易云音乐下载<br>
 canvas-nest.min.js:canvas-nest效果背景JS文件<br>
 
